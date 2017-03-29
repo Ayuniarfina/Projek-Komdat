@@ -1,6 +1,6 @@
 # Aplikasi Web "Bludit"
 
-[Sekilas Tentang](#sekilas-tentang) | [Instalasi](#instalasi) | [Konfigurasi](#konfigurasi) | [Otomatisasi](#otomatisasi) | [Maintenance](#maintenance) | [Cara Pemakaian](#cara-pemakaian) | [Pembahasan](#pembahasan) | [Referensi](#referensi)
+[Sekilas Tentang](#sekilas-tentang) | [Instalasi](#instalasi) | [Konfigurasi](#konfigurasi) | [Cara Pemakaian](#cara-pemakaian) | [Pembahasan](#pembahasan) | [Referensi](#referensi)
 :---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:
 
 ## Sekilas Tentang 
@@ -79,8 +79,6 @@ chdir = /
 4.	Rm –rf bludit_latest.zip //remove zip
 5.	sudo apt-get install php7.0-gd php7.0-mbstring php7.0-dom php7.0-json
 6.	buka alamat 172.18.88.81/bludit
-
-## Otomatisasi
 
 ## Cara Pemakaian
 1. Tampilan aplikasi web
