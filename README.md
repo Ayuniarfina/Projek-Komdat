@@ -81,7 +81,7 @@ chdir = /
 6.	buka alamat 172.18.88.81/bludit
 
 ## Cara Pemakaian
-1. Tampilan aplikasi web
+### 1. Tampilan aplikasi web
 	1. Pilih bahasa
 	![Imgur](http://i.imgur.com/XD8yxZI.jpg)
 	2. Login 
@@ -91,17 +91,17 @@ chdir = /
 	4. *Dashboard admin*
 	![Imgur](http://i.imgur.com/gAQH5L2.png)
 	
-2. Buat Pos
+### 2. Buat Pos
 	Untuk membuat *post*, di halaman *dashboard admin*, klik *New post* yang terletak di sebelah kiri halaman
 	
 	![Imgur](http://i.imgur.com/QiOFO3b.png)
 	
-3. *Manage posts*
+### 3. *Manage posts*
 	Untuk *manage posts* dari halaman *dashboard admin*, klik *manage posts* yang terletak di sebela kiri
 	
     ![Imgur](http://i.imgur.com/b3kV0bp.png)
 	
-4. Mengatur Bludit
+### 4. Mengatur Bludit
     Untuk mengatur bludit, klik *setting* pada bagian kiri halaman, disini kita dapat mengatur UI, bahasa, dan sebagainya
 	
     ![Imgur](http://i.imgur.com/aKVMSas.png)
